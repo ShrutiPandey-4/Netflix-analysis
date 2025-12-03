@@ -1,5 +1,5 @@
 # 📺 Netflix Titles Data Analysis
-An exploratory data analysis (EDA) project using the Netflix dataset.  
+An exploratory data analysis (EDA) project using the Netflix dataset from Kaggle.  
 Includes data cleaning, genre insights, release year trends, country breakdowns, and visualizations.
 
 ## 🔍 Tools Used
